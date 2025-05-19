@@ -346,7 +346,7 @@ For questions, suggestions, or collaboration:
 ## 📸 Screenshots
 
 ### Example
-![Example]([g](https://miro.medium.com/v2/resize:fit:700/1*6OdOt2fBgSdIhbfa6VBOig.png))
+![Example](https://miro.medium.com/v2/resize:fit:700/1*6OdOt2fBgSdIhbfa6VBOig.png)
 
 ### Example
 ![Example](https://miro.medium.com/v2/resize:fit:700/1*CC3Wu75RnASSzXkUudjvfA.png)
